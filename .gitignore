@@ -1,0 +1,3 @@
+
+# Mengabaikan file hasil kompilasi Java
+*.class
