@@ -1,31 +1,25 @@
-# Analisis Komparatif Platform Web, Desktop, dan Mobile
+# Analisis Karakteristik Platform Web, Desktop, dan Mobile
 
-## 1. Perbandingan Platform
+**Nama:** Muhammad Fathul Fawaz  
+**NIM:** 240511201  
+**Mata Kuliah:** Pemrograman Berbasis Platform  
+**Pertemuan:** 1
+
+## Tabel Analisis Platform
 
 | Aspek | Web | Desktop | Mobile |
 |---|---|---|---|
-| Bahasa utama | HTML, CSS, JavaScript | C#, Java, C++ | Kotlin, Java, Swift |
-| Arsitektur | Client-server, diakses melalui browser | Aplikasi berjalan pada sistem operasi komputer | Aplikasi berjalan pada perangkat seluler |
-| Cara distribusi | Melalui URL atau browser | Installer atau toko aplikasi desktop | Play Store atau App Store |
-| Keunggulan | Mudah diakses tanpa instalasi khusus dan pembaruan dapat dilakukan terpusat | Dapat memanfaatkan sumber daya komputer dan mendukung pekerjaan kompleks | Praktis dibawa ke mana-mana dan dapat menggunakan fitur perangkat |
-| Keterbatasan | Beberapa fitur bergantung pada browser dan koneksi internet | Biasanya memerlukan instalasi dan penyesuaian sistem operasi | Dipengaruhi keterbatasan perangkat dan kompatibilitas sistem operasi |
-| Contoh aplikasi | Google Docs, Gmail | Microsoft Word Desktop, Visual Studio Code | WhatsApp Mobile, Google Maps |
+| **Arsitektur** | Menggunakan arsitektur Client-Server. Pengguna mengakses aplikasi melalui browser, sedangkan proses dan data dapat dikelola oleh server. | Aplikasi diinstal dan dijalankan secara langsung pada sistem operasi komputer atau laptop. | Aplikasi diinstal dan dijalankan pada sistem operasi perangkat mobile seperti Android dan iOS. |
+| **Bahasa Utama** | HTML, CSS, dan JavaScript. Dapat menggunakan framework seperti React dan teknologi backend seperti Node.js. | Java, C#, dan C++. Dapat menggunakan teknologi seperti JavaFX dan .NET. | Kotlin dan Java untuk Android, Swift untuk iOS, serta Dart dengan Flutter untuk pengembangan lintas platform. |
+| **Distribusi** | Diakses melalui browser menggunakan alamat URL dan umumnya membutuhkan koneksi internet. | Didistribusikan melalui file installer atau paket aplikasi yang dipasang pada komputer. | Didistribusikan melalui Google Play Store, Apple App Store, atau file APK untuk Android. |
+| **Keunggulan** | Mudah diakses melalui berbagai perangkat, tidak memerlukan instalasi khusus, dan pembaruan aplikasi dapat dilakukan melalui server. | Dapat berjalan tanpa koneksi internet untuk aplikasi yang mendukung mode offline serta memiliki akses lebih luas terhadap sumber daya komputer. | Mudah dibawa dan digunakan kapan saja, serta dapat memanfaatkan fitur perangkat seperti GPS, kamera, dan sensor. |
+| **Keterbatasan** | Bergantung pada browser dan koneksi internet untuk layanan online. Akses terhadap perangkat keras juga memiliki batasan. | Memerlukan instalasi dan dapat membutuhkan penyesuaian terhadap sistem operasi yang berbeda. | Memiliki keterbatasan ukuran layar, kapasitas baterai, dan spesifikasi perangkat. |
+| **Contoh Aplikasi** | Tokopedia, Facebook, dan Gmail. | Visual Studio Code, Adobe Photoshop, dan Spotify. | WhatsApp, Gojek, dan Instagram. |
 
-## 2. Kesimpulan
+## Kesimpulan
 
-Platform Web cocok untuk aplikasi yang mudah diakses melalui browser. Platform Desktop cocok untuk aplikasi yang membutuhkan integrasi dengan sistem operasi komputer. Sementara itu, platform Mobile cocok untuk aplikasi yang digunakan secara praktis melalui smartphone. Pemilihan platform harus disesuaikan dengan kebutuhan pengguna dan tujuan pengembangan aplikasi.
+Berdasarkan hasil analisis, platform Web, Desktop, dan Mobile memiliki karakteristik, arsitektur, serta keunggulan dan keterbatasan masing-masing.
 
-## 3. Referensi
+Platform Web cocok untuk aplikasi yang membutuhkan akses luas melalui browser. Platform Desktop lebih sesuai untuk aplikasi yang membutuhkan kemampuan pemrosesan dan akses sumber daya komputer. Sementara itu, platform Mobile cocok untuk aplikasi yang membutuhkan mobilitas serta pemanfaatan fitur perangkat seperti GPS dan kamera.
 
-1. MDN Web Docs. Dokumentasi teknologi Web. https://developer.mozilla.org/
-2. Microsoft Learn. Dokumentasi pengembangan aplikasi. https://learn.microsoft.com/
-3. Android Developers. Dokumentasi pengembangan Android. https://developer.android.com/
-
-## Refleksi Tugas Pertemuan 1: Pemrograman Berbasis Platform
-
-Platform yang paling menarik bagi saya untuk dipelajari adalah Mobile. Menurut saya, pengembangan aplikasi mobile sangat menarik karena aplikasi dapat digunakan secara langsung melalui smartphone dan membantu berbagai aktivitas sehari-hari. Saya ingin mempelajari bagaimana proses pembuatan aplikasi Android, mulai dari menulis kode hingga aplikasi dapat dijalankan pada perangkat. Selain itu, saya juga ingin menambah pengetahuan dan kemampuan dalam mengembangkan aplikasi mobile agar dapat membuat aplikasi yang bermanfaat bagi banyak orang.
-
-Tantangan yang saya alami dalam mengerjakan tugas ini adalah memahami penggunaan Git dan GitHub. Pada awalnya, saya perlu memahami perbedaan antara repository yang ada di GitHub dan folder proyek yang tersimpan di komputer. Saya juga perlu mempelajari proses clone repository agar proyek dapat dibuka dan dikerjakan melalui Visual Studio Code.
-
-Untuk mengatasi tantangan tersebut, saya berencana mempelajari kembali fungsi dasar Git, seperti clone, add, commit, dan push. Saya juga akan mencoba mempraktikkan setiap perintah secara bertahap agar lebih mudah memahami kegunaannya. Selain itu, saya akan memanfaatkan dokumentasi dan tutorial yang tersedia serta bertanya ketika menemukan kesulitan. Dengan cara tersebut, saya berharap dapat menggunakan Git dan GitHub dengan lebih baik serta menyelesaikan tugas Pemrograman Berbasis Platform sesuai dengan ketentuan yang diberikan.
-
+Pemilihan platform harus disesuaikan dengan kebutuhan pengguna, tujuan pengembangan aplikasi, dan fitur yang ingin disediakan.
